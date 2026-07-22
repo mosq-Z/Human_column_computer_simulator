@@ -1,4 +1,4 @@
-# 人列计算机模拟器 (Human Column Computer Simulator)
+# 人列计算机模拟器 (Human Column Computer Simulator)   
 
 > 灵感源自刘慈欣《三体》——用士兵的举旗与观察，模拟数字逻辑电路的信号传播。
 
